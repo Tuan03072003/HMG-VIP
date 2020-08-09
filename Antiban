@@ -1,5 +1,5 @@
 local date_ = os.date("%y%m%d%H:%M%p")
-local time_ = "20080900:00"
+local time_ = "20080923:00"
 if date_ > time_ then
 print ("⚠️ Kịch Bản Đã Hết Hạn Sử Dụng ⚠️")
 os.exit() 
